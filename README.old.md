@@ -1,0 +1,1 @@
+Ecart Application built in React and redux 
